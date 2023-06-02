@@ -1,0 +1,15 @@
+*** Table 1 - Cyclical Behaviour of the US Economy ***
+
+- the Fred series are already cited in the ipynb file: they're in the fred_codes dictionary. 
+
+- data about employment and total hours worked was found at https://www.bls.gov/productivity/tables/total-economy-hours-employment.xlsx
+this link is also present in the ipynb file when motivating the choice of using this source.
+
+- CPI series: https://fred.stlouisfed.org/series/CPIAUCSL#0
+
+- short YT video to understand how to retrieve real data from nominal data: https://www.youtube.com/watch?v=1Nf2i3gXCKA&ab_channel=tutor2u
+
+======================================================================================
+
+*** Table 2 - Business Cycle Statistics for the US Economy ***
+- the Fred series are already cited in the ipynb file: they're in the fred_codes dictionary.
